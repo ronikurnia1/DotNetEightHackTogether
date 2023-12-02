@@ -49,7 +49,7 @@ You can run this repo virtually by using GitHub Codespaces or VS Code Remote Con
 #### Project Initialization
 
 
-1. Clone the source-code `git clone https://github.com/ronikurnia1/gpt-azure-botservice.git` 
+1. Clone the source-code `git clone https://github.com/ronikurnia1/DotNetEightHackTogether.git` 
 2. Run `cd .\gpt-azure-botservice`
 4. Run `azd login`
 5. Run `azd init --location eastus --subscription [00000000-0000-0000-0000-000000000000] --environment [your-env-name] --no-prompt`
